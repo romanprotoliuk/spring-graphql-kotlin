@@ -69,7 +69,7 @@ git clone https://github.com/your-username/your-repo.git
 ```bash
 http://localhost:8080/graphiql?path=/graphql
 ```
-![Screenshot 2023-07-27 at 6.13.05 PM.png](..%2F..%2FScreenshot%202023-07-27%20at%206.13.05%20PM.png)
+![graphiql.png](graphiql.png)
 Now, your Spring GraphQL with Kotlin application is up and running!
 
 
