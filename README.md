@@ -65,6 +65,11 @@ git clone https://github.com/your-username/your-repo.git
 ./gradlew bootRun
 ```
 
+5. Open in browser:
+```bash
+http://localhost:8080/graphiql?path=/graphql
+```
+
 Now, your Spring GraphQL with Kotlin application is up and running!
 
 
